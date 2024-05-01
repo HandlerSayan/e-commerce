@@ -1,7 +1,7 @@
 ### SHOPPING APP - OneStop
 ---
 
-This repository contain the line of codes for the shopping app which is built using MERN STACK. Please follow the guideliness to set it up.
+This repository holds codes for the shopping app which is built using MERN STACK. Please follow the guideliness to set it up.
 
 **What Can I Do ?**
 - User can surf it without logging in.
