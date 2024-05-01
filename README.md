@@ -40,8 +40,8 @@ This repository contain the line of codes for the shopping app which is built us
 
 **How to set it up ?**
 
-1. Clone the repository
-2. Install the dependencies
+1. Clone the repository in VS CODE
+2. Install the dependencies, by opening each folders in their respective terminals in VS CODE
 3. Run the server
 
 **Order of Setup**
