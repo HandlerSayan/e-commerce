@@ -40,9 +40,10 @@ This repository contain the line of codes for the shopping app which is built us
 
 **How to set it up ?**
 
-1. Clone the repository in VS CODE by running the command git clone <http.url> 
-2. Install the dependencies, by opening each folders in their respective terminals in VS CODE
-3. Run the server
+1. Clone the repository in VS CODE by running the command git clone <http.url>
+   eg - git clone https://github.com/HandlerSayan/e-commerce2
+3. Install the dependencies, by opening each folders in their respective terminals in VS CODE
+4. Run the server
 
 **Order of Setup**
 
