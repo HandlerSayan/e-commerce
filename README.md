@@ -41,7 +41,6 @@ This repository holds codes for the shopping app which is built using MERN STACK
 **How to set it up ?**
 
 1. Clone the repository in VS CODE by running the command git clone <http.url>
-   eg - https://github.com/HandlerSayan/e-commerce
 3. Install the dependencies, by opening each folders in their respective terminals in VS CODE
 4. Run the server
 
