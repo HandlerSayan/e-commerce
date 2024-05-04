@@ -65,38 +65,38 @@ button:hover{
 
 
 
-/* For a maximum width of 650px */
+/* For a maximum width of 500px */
 @media(max-width: 500px) {
     .offers {
-         width: auto;
-         padding: 0px 20px;
+         width: 60%;
+        height:60vh;
+         padding: 0px 5%;
      }
  
     .left {
          text-align: flex-start;
-         padding: 0px 10px;
      }
  
     .left h1 {
+        justify-content:flex-start;
          font-size: 25px;
      }
  
     .left p {
+         justify-content: flex-start;
          font-size: 16px;
+         font-weight: 400;
      }
  
     .left button {
          width: 120px;
          height: 40px;
-         font-size: 16px;
+         font-size: 10px;
      }
  
     .right img {
-         padding-right: 20px;
-         width: 60%;
-         height: 60%;
-         /* width: 90px;
-         height: 90px; */
+         width:100px;
+        height: 150px;
      }
  }
  
@@ -108,7 +108,7 @@ button:hover{
      }
  
     .left {
-         text-align: center;
+         text-align: flex-start;
          padding: 0px 50px;
      }
  
@@ -127,7 +127,7 @@ button:hover{
      }
  
     .right img {
-         padding-left: 50px;
+         padding-left: 2px;
          width: 200px;
          height: 240px;
      }
